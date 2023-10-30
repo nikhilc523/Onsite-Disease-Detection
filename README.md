@@ -1,12 +1,6 @@
-# Onsite Health Diagnostic (OHD)
+# Onsite Disease  Detection (ODD)
 
-<img src="https://github.com/Nix-code/Onsite-Health-Diagnostic-OHD/blob/main/docs/src/disease.png" width="1100" height="500" />
-
-<p>Onsite Health Diagnostic (OHD) is the web application that allow users to predict whether the user has been infected with a menacing disease or not. These diseases can be very dangerous to health if they are not treated properly. The main objective of OHD is to help people predict the disease in case of absence of medical professionals, strikes or any related uncertainties.</p>
-
-<p> Official Documentation of the project</p>
-
--  [Documentation](https://nix-code.github.io/Onsite-Health-Diagnostic-OHD/)
+<p>Onsite Disease Detection (ODD) is the web application that allow users to predict whether the user has been infected with a menacing disease or not. These diseases can be very dangerous to health if they are not treated properly. The main objective of ODD is to help people predict the disease in case of absence of medical professionals, strikes or any related uncertainties.</p>
 
 ## Table Of Contents
 
@@ -29,7 +23,7 @@
 ## Clone
 
 ```
-git clone git@github.com:Nix-code/Onsite-Health-Diagnostic-OHD.git
+git clone git@github.com:Nix-code/Onsite-Disease-Detection.git
 ```
 - To run on your local machine, make sure you have installed every requirements.
 ```
@@ -42,16 +36,3 @@ $ flask run
      $ python3 app.py
 ```
  
-## Developers
-[Rohan Patankar](https://github.com/rohanpatankar926) - ```Machine Learning & Deployment```
-
-[Apsara Budhathoki](https://github.com/ApsaraBudhathoki) - ```Web Design & Development```
-
-[Nishant Banjade](https://github.com/Nix-code) - ```Machine Learning & Deployment```
-
-## Licence
-
-[MIT Licence](https://github.com/Nix-code/Onsite-Health-Diagnostic-OHD/blob/main/LICENSE)
-
-#### Special Thanks to Late. Binit Ghimire AKA Internet Hero for giving idea for Documentation Building
-
