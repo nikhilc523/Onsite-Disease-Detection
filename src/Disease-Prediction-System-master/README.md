@@ -1,11 +1,8 @@
-# Disease-Prediction-System using PHP.
+# Disease-Prediction-System.
 <hr>
 This Project is predict the disease based on your Symptoms .Here ,the I use Html, CSS, JavaScript ,PHP ,MySql ,JQuery. .Before Enter to the project at first insert the database into the sql database .Database file is given inside the project.
 
 ## Here, I am trying to do this project using core php .
-
-##### This project had been done for the requirements Software Engineering Courses which is done in (01-01-2020  to 31-04-2020).
-
 <hr>
 
 #### Peoject Description: This Project is basically predict the disease based on your symptoms. After Entering the system you can Login or Registration.Login is not mandatory for checking the disease. First you have to select the portion of your body which you feel bad.Then After selecting some symtopmps you can get the result.
@@ -14,8 +11,6 @@ This Project is predict the disease based on your Symptoms .Here ,the I use Html
 
 
 #### Cautions : You Cannot surely 100% sure that this is the right disease.It's just analyze the symptoms and based on that symptoms that produce output.
-
-#### Credits : Some Symptoms and Disease Information are collected by Shoibe Akter and Nayeem-ul-Haque and the part of the skeleton are collected by Shoibe Akter🙂.
 
 <hr>
 
